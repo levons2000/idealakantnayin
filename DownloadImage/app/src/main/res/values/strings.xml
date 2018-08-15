@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DownloadImage</string>
+    <string-array name="image_names">
+        <item>Image 1</item>
+        <item>Image 2</item>
+        <item>Image 3</item>
+        <item>Image 4</item>
+        <item>Image 5</item>
+    </string-array>
+</resources>
